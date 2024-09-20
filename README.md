@@ -1,1 +1,1 @@
-# epamStady-git
+# epamStudy-git
